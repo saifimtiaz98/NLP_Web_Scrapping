@@ -1,0 +1,179 @@
+Start of Log
+Index: 1 URL: https://www.afro.who.int/news/who-africa-cdc-support-17-countries-develop-mpox-vaccination-plans 
+Valid URL
+Index: 2 URL: https://www.afro.who.int/news/ghana-host-regional-simulation-exercise-boost-outbreak-preparedness-and-response-capacity 
+Valid URL
+Index: 3 URL: https://www.afro.who.int/news/who-equips-journalists-spotlight-critical-health-insights-2023-ghanas-steps-report 
+Valid URL
+Index: 4 URL: https://www.afro.who.int/news/african-health-ministers-delegates-adopt-declaration-climate-change-and-health 
+Valid URL
+Index: 5 URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-introduces-r21-malaria-vaccine 
+Valid URL
+Index: 6 URL: https://www.afro.who.int/news/who-africa-womenlift-health-sign-pivotal-agreement-strengthen-womens-leadership-health 
+Valid URL
+Index: 7 URL: https://www.afro.who.int/countries/chad/news/chad-introduces-malaria-vaccine-triple-vaccine-rollout-children 
+Valid URL
+Index: 8 URL: https://www.afro.who.int/news/who-strengthens-countries-capacities-combat-diet-related-noncommunicable-diseases-africa 
+Valid URL
+Index: 9 URL: https://www.afro.who.int/news/who-supports-civil-society-organizations-address-gender-based-health-inequities-through 
+Valid URL
+Index: 10 URL: https://www.afro.who.int/countries/senegal/news/senegal-becomes-first-african-country-establish-emergency-medical-team-following-who-standards 
+Valid URL
+Index: 11 URL: https://www.afro.who.int/news/promising-progress-eye-health-african-region-challenges-remain 
+Valid URL
+Index: 12 URL: https://www.afro.who.int/news/urgent-action-needed-accelerate-mental-health-progress-african-region 
+Valid URL
+Index: 13 URL: https://www.afro.who.int/news/strengthening-zimbabwes-expanded-programme-immunization-addressing-data-quality-challenges 
+Valid URL
+Index: 14 URL: https://www.afro.who.int/news/burden-hearing-loss-africa-could-rise-54-million-2030-who-report 
+Valid URL
+Index: 15 URL: https://www.afro.who.int/news/health-labour-market-analysis-support-tool-launched 
+Valid URL
+Index: 16 URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-kicks-mpox-vaccination 
+Valid URL
+Index: 17 URL: https://www.afro.who.int/countries/rwanda/news/rwanda-reports-first-ever-marburg-virus-disease-outbreak-26-cases-confirmed 
+Valid URL
+Index: 18 URL: https://www.afro.who.int/news/experts-commit-step-immunization-programme-central-africa 
+Valid URL
+Index: 19 URL: https://www.afro.who.int/news/joint-statement-world-rabies-day 
+Valid URL
+Index: 20 URL: https://www.afro.who.int/news/experts-agree-african-regional-plan-health-and-climate-change 
+Valid URL
+Index: 21 URL: https://www.afro.who.int/news/who-africa-ifrc-bolster-partnership-enhanced-public-health-emergency-response 
+Valid URL
+Index: 22 URL: https://www.afro.who.int/countries/democratic-republic-of-congo/news/who-delivers-335-metric-tonnes-medical-supplies-democratic-republic-congo 
+Valid URL
+Index: 23 URL: https://www.afro.who.int/news/three-central-african-countries-commit-global-eradication-guinea-worm-disease 
+Valid URL
+Index: 24 URL: https://www.afro.who.int/news/sahel-lake-chad-basin-countries-coordinate-joint-polio-eradication-plan 
+Valid URL
+Index: 25 URL: https://www.afro.who.int/news/african-cdc-and-who-launch-joint-continental-plan-scale-mpox-outbreak-response 
+Valid URL
+Index: 26 URL: https://www.afro.who.int/news/african-health-ministers-partners-urge-equitable-access-critical-tools-curb-cervical-cancer 
+Valid URL
+Index: 27 URL: https://www.afro.who.int/countries/nigeria/news/first-ever-delivery-mpox-vaccines-africa-outside-clinical-trials-arrives-nigeria 
+Valid URL
+Index: 28 URL: https://www.afro.who.int/news/fourteen-african-countries-key-partners-unite-provide-critical-resources-health-whos-first 
+Valid URL
+Index: 29 URL: https://www.afro.who.int/news/dr-faustine-engelbert-ndugulile-tanzania-nominated-next-director-who-african-region 
+Valid URL
+Index: 30 URL: https://www.afro.who.int/news/african-health-ministers-kick-regions-top-health-forum 
+Valid URL
+Index: 31 URL: https://www.afro.who.int/news/scaling-response-curb-growing-mpox-outbreak-african-region 
+Valid URL
+Index: 32 URL: https://www.afro.who.int/countries/kenya/news/kenya-strengthening-health-workforce 
+Valid URL
+Index: 33 URL: https://www.afro.who.int/news/african-region-faces-unprecedent-surge-mpox-cases 
+Valid URL
+Index: 34 URL: https://www.afro.who.int/news/building-public-health-resilience-sierra-leone-training-72-surge-workforce-rapid-public-health 
+Valid URL
+Index: 35 URL: https://www.afro.who.int/countries/mozambique/news/mozambique-introduces-r21-vaccine-bolstering-malaria-control-efforts 
+Valid URL
+Index: 36 URL: https://www.afro.who.int/news/forging-resilience-who-afro-establishes-independent-expert-body-bolster-africas-health 
+Valid URL
+Index: 37 URL: https://www.afro.who.int/news/road-traffic-deaths-rise-african-region-down-globally-who-report 
+Valid URL
+Index: 38 URL: https://www.afro.who.int/countries/chad/news/who-steps-cross-regional-efforts-sudans-humanitarian-emergency 
+Valid URL
+Index: 39 URL: https://www.afro.who.int/news/election-new-who-regional-director-africa-candidates-forum 
+Valid URL
+Index: 40 URL: https://www.afro.who.int/news/sierra-leones-dedicated-polio-vaccinators-hit-roads-reach-millions-children-ensuring-every 
+Valid URL
+Index: 41 URL: https://www.afro.who.int/news/who-africa-releases-groundbreaking-guidance-boost-fight-against-sickle-cell-disease 
+Valid URL
+Index: 42 URL: https://www.afro.who.int/news/zeroing-purposive-targeting-oral-cholera-vaccination-campaign 
+Valid URL
+Index: 43 URL: https://www.afro.who.int/news/african-health-leaders-begin-work-roadmap-reshape-global-health-financing-continent 
+Valid URL
+Index: 44 URL: https://www.afro.who.int/news/new-framework-launched-eliminate-visceral-leishmaniasis-eastern-africa 
+Valid URL
+Index: 45 URL: https://www.afro.who.int/news/mpox-press-statement 
+Valid URL
+Index: 46 URL: https://www.afro.who.int/news/environmental-health-workers-frontlines-zimbabwes-cholera-outbreak 
+Valid URL
+Index: 47 URL: https://www.afro.who.int/news/stronger-control-efforts-help-lower-tobacco-use-african-region 
+Valid URL
+Index: 48 URL: https://www.afro.who.int/news/timely-outbreak-response-enhanced-surveillance-halts-wild-poliovirus-transmission-southern 
+Valid URL
+Index: 49 URL: https://www.afro.who.int/countries/ghana/news/enhancing-capacity-malaria-vaccine-introduction-and-rollout-africa-through-experience-sharing 
+Valid URL
+Index: 50 URL: https://www.afro.who.int/news/namibia-reaches-key-milestone-eliminating-mother-child-transmission-hiv-and-hepatitis-b 
+Valid URL
+Index: 51 URL: https://www.afro.who.int/news/african-regions-first-ever-health-workforce-investment-charter-launched 
+Valid URL
+Index: 52 URL: https://www.afro.who.int/news/call-experts-regional-validation-committee-rvc-elimination-mother-child-transmission-emtct-hiv 
+Valid URL
+Index: 53 URL: https://www.afro.who.int/news/boosting-efforts-transform-care-severe-chronic-diseases-africa 
+Valid URL
+Index: 54 URL: https://www.afro.who.int/news/pioneering-charter-drive-investment-africas-health-workforce 
+Valid URL
+Index: 55 URL: https://www.afro.who.int/news/major-step-malaria-prevention-three-west-african-countries-roll-out-vaccine 
+Valid URL
+Index: 56 URL: https://www.afro.who.int/news/over-50-million-lives-saved-africa-through-expanded-immunization-programme 
+Valid URL
+Index: 57 URL: https://www.afro.who.int/news/eritrea-observed-world-tb-day-2024 
+Valid URL
+Index: 58 URL: https://www.afro.who.int/news/african-island-states-take-fresh-step-towards-joint-medicines-procurement 
+Valid URL
+Index: 59 URL: https://www.afro.who.int/countries/liberia/news/liberias-world-health-day-commemoration-activities-unveiled-my-health-my-0 
+Valid URL
+Index: 60 URL: https://www.afro.who.int/news/rate-tb-diagnosis-treatment-africa-increasing 
+Valid URL
+Index: 61 URL: https://www.afro.who.int/news/african-health-ministers-commit-end-malaria-deaths 
+Valid URL
+Index: 62 URL: https://www.afro.who.int/countries/kenya/news/who-africa-unicef-and-partners-poised-advance-implementation-baby-friendly-hospital-initiative 
+Valid URL
+Index: 63 URL: https://www.afro.who.int/news/nearly-10-000-children-vaccinated-malaria-vaccine-rollout-africa-expands 
+Valid URL
+Index: 64 URL: https://www.afro.who.int/countries/cameroon/news/cameroon-kicks-malaria-vaccine-rollout 
+Valid URL
+Index: 65 URL: https://www.afro.who.int/countries/cabo-verde/news/who-certifies-cabo-verde-malaria-free-marking-historic-milestone-fight-against-malaria 
+Valid URL
+Index: 66 URL: https://www.afro.who.int/news/who-africa-bill-and-melinda-gates-foundation-pursue-collaboration-leverage-data-analytics 
+Valid URL
+Index: 67 URL: https://www.afro.who.int/news/who-recognition-noma-neglected-tropical-disease-bolsters-control-efforts 
+Valid URL
+Index: 68 URL: https://www.afro.who.int/news/senegal-who-launch-regional-emergency-hub-bolster-africas-response-health-crises 
+Valid URL
+Index: 69 URL: https://www.afro.who.int/news/who-africa-welcomes-gavis-commitment-africa-vaccine-manufacture-immunization-and-pandemic 
+Valid URL
+Index: 70 URL: https://www.afro.who.int/news/who-africa-welcomes-new-commitment-global-partners-end-neglected-tropical-diseases 
+Valid URL
+Index: 71 URL: https://www.afro.who.int/news/scaling-country-support-ntd-eradication 
+Valid URL
+Index: 72 URL: https://www.afro.who.int/news/stronger-action-urged-who-fourth-global-school-refugee-and-migrant-health-concludes 
+Valid URL
+Index: 73 URL: https://www.afro.who.int/news/who-partners-urge-stronger-action-accelerate-childhood-vaccination-africa 
+Valid URL
+Index: 74 URL: https://www.afro.who.int/news/accelerating-action-hpv-vaccination-africa 
+Valid URL
+Index: 75 URL: https://www.afro.who.int/countries/cameroon/news/shipments-african-countries-herald-final-steps-toward-broader-vaccination-against-malaria 
+Valid URL
+Index: 76 URL: https://www.afro.who.int/countries/malawi/news/malawi-s-ratification-whos-framework-convention-tobacco-control-comes-effect 
+Valid URL
+Index: 77 URL: https://www.afro.who.int/countries/ghana/news/african-lawmakers-voice-support-stronger-health-emergency-preparedness-and-response 
+Valid URL
+Index: 78 URL: https://www.afro.who.int/news/immunizations-conference-ends-consensus-advance-immunization-goals-africa 
+Valid URL
+Index: 79 URL: https://www.afro.who.int/news/transitioning-bu-labnet-skin-ntd-labnet 
+Valid URL
+Index: 80 URL: https://www.afro.who.int/news/first-who-tri-regional-health-leadership-training-gets-underway 
+Valid URL
+Index: 81 URL: https://www.afro.who.int/countries/nigeria/news/nigeria-vaccinate-77-million-girls-against-leading-cause-cervical-cancer 
+Valid URL
+Index: 82 URL: https://www.afro.who.int/countries/eritrea/news/eritrea-empowered-health-workers-essential-care-during-labor-and-birth-eclb-early-essential-newborn 
+Valid URL
+Index: 83 URL: https://www.afro.who.int/news/closing-care-gap-role-families-breast-cancer-battle 
+Valid URL
+Index: 84 URL: https://www.afro.who.int/countries/cote-divoire/news/three-african-countries-pilot-initiative-boost-cervical-and-breast-cancer-care 
+Valid URL
+Index: 85 URL: https://www.afro.who.int/news/malawi-convenes-cholera-outbreak-review-0 
+Valid URL
+Index: 86 URL: https://www.afro.who.int/countries/madagascar/news/enhancing-polio-vaccination-campaign-quality-madagascar 
+Valid URL
+Index: 87 URL: https://www.afro.who.int/news/its-75th-anniversary-who-honours-former-leaders-their-contributions-public-health 
+Valid URL
+Index: 88 URL: https://www.afro.who.int/news/developing-human-resource-health-ghana 
+Valid URL
+Index: 89 URL: https://www.afro.who.int/countries/sierra-leone/news/sierra-leones-determination-stem-maternal-and-child-mortality 
+Valid URL

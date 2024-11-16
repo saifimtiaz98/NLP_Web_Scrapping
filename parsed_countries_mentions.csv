@@ -1,0 +1,8 @@
+doc_id,sentence_id,token,upos,lemma
+doc1,11,Oman,PROPN,oman
+doc1,14,Switzerland,PROPN,switzerland
+doc1,34,Sudan,ADJ,sudan
+doc1,35,Sudan,PROPN,sudan
+doc1,35,Uganda,PROPN,uganda
+doc1,38,Uganda,PROPN,uganda
+doc1,43,Kenya,PROPN,kenya
